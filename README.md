@@ -41,5 +41,5 @@ We value your input! If you have ideas, feature requests, or spot any issues, pl
 
 ## Hosted on GitHub Pages
 
-You can explore WeatherWise live at [your-website-link], and the source code is available in this repository.
+You can explore WeatherWise live at your-website-link]](https://shamdkamble.github.io/Live_weather_website/), and the source code is available in this repository.
 
